@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vo Thanh Vinh"
+title                    : #"Vo Thanh Vinh"
 title_separator          : "-"
 name                     : &name "Vo Thanh Vinh"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Vo Thanh Vinh"
+  name             : "Vo Thanh Vinh"
   avatar           : "dog.jpeg"
-  bio              : #"Ph.D. candidate, National University of Singapore"
+  bio              : "Ph.D. candidate, National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : #"#"
