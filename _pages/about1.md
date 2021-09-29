@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently at National University of Singapore. I am interested in causality, point processes, Hawkes processes.
+I am currently a Ph.D. student at National University of Singapore. 
 
 Research interests
 ======
