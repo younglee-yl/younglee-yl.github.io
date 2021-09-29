@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Vo Thanh Vinh"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /home.html
 ---
 
+
+About
+======
 <!--I am currently a Ph.D. student at National University of Singapore, under supervison of Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a>. I am also working with Professor <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a> as a research assistant. My research interests include causal inference, causal discovery, point processes, and Hawkes processes.-->
 I am currently a Ph.D. student at National University of Singapore, working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. My research interests include causal inference, causal discovery, and point processes.
-
-
-
 
 Preprints
 ======
@@ -28,8 +28,8 @@ Selected publications
 ======
 - **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders, *International Conference on
 Artificial Intelligence and Statistics* (**AISTATS**), 2021.
-- Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, and Harold Soh. Z-Transforms and its Inference on Partially Observable Point Processes, *Intl. Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
-- **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users, *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
+- Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, and Harold Soh. Z-Transforms and its Inference on Partially Observable Point Processes. *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
+- **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
 - **Thanh Vinh Vo**, Duong Tuan Anh. Instance Reduction for Time Series Classification using MDL Principle. *Intelligent Data Analysis 21(3)*, IOS Press, 2017.
 
 Teaching
