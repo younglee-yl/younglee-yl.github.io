@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "Vo Thanh Vinh"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /index/
+  - /index.html
 ---
 
 I am currently a Ph.D. student at National University of Singapore, under supervison of Professor [Leong Tze-Yun](https://www.comp.nus.edu.sg/~leongty/). Besides, I am also working with Professor [Arnab Bhattacharyya](https://www.comp.nus.edu.sg/~arnab/) as a research assistant. My research interests include causal inference, causal discovery, point processes, Hawkes processes.
