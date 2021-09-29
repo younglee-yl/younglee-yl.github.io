@@ -4,8 +4,6 @@ title: "About me"
 excerpt: "Vo Thanh Vinh"
 author_profile: true
 redirect_from: 
-  - /index/
-  - /index.html
   - /home/
   - /home.html
 ---
