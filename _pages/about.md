@@ -24,6 +24,7 @@ Preprint
 - Pengfei Wei, **Thanh Vinh Vo**, Zejun Ma. Dynamic Adaptive Transfer Kernel Learning.
 - Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression.
 
+
 Selected publications
 ======
 - **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders, *International Conference on
