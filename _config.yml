@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : #"Vo Thanh Vinh"
   avatar           : "dog.jpeg"
-  bio              : " "
+  bio              : #"Ph.D. candidate, National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : #"#"
