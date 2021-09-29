@@ -26,7 +26,7 @@ Preprints
 
 Selected publications
 ======
-- **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders, *International Conference on
+- **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders. *International Conference on
 Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 - Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, and Harold Soh. Z-Transforms and its Inference on Partially Observable Point Processes. *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
 - **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
