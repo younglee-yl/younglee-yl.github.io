@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "VO Thanh Vinh"
-  avatar           : "v-profile.png" #"dog.jpeg"
+  avatar           : "dog.jpeg"
   bio              : "Ph.D. candidate, National University of Singapore"
   location         : "Singapore"
   employer         :
