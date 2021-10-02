@@ -12,7 +12,7 @@ redirect_from:
 ## About
 <!-- ======-->
 <!--I am currently a Ph.D. student at National University of Singapore, under supervison of Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a>. I am also working with Professor <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a> as a research assistant. My research interests include causal inference, causal discovery, point processes, and Hawkes processes.-->
-I am currently currently a doctoral student in Computer Science at the National University of Singapore, working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. My research interests include causal inference, causal discovery, and point processes.
+I am currently a doctoral student in Computer Science at the National University of Singapore, working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. My research interests include causal inference, causal discovery, and point processes.
 
 ## Preprints
 <!-- ======-->
