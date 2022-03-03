@@ -11,7 +11,7 @@ redirect_from:
 
 ## About
 <!-- ======-->
-I am currently a Postdoctoral Research Fellow at the National University of Singapore, working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. My research interests include causal inference, causal discovery, and point processes.
+I am currently a Postdoctoral Research Fellow at the National University of Singapore (NUS) - School of Computing, working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. I did my PhD at NUS, under the guidence of Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze-Yun</a>. My research interests include causal inference, causal discovery, and point processes.
 
 ## Preprints
 <!-- ======-->
