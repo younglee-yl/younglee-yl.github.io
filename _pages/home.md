@@ -13,7 +13,7 @@ redirect_from:
 <!-- ======-->
 I am currently a Postdoctoral Research Fellow at the School of Computing - National University of Singapore (NUS), working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. My research interests include causal inference, causal discovery, and point processes.
 
-I did my PhD in Computer Science at NUS, under the guidance of Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>. My PhD research is: Causal Inference from Observational Data.
+I did my PhD in Computer Science at NUS, under the guidance of Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>. My PhD research topic is 'Causal Inference from Observational Data'.
 
 ## Preprints
 <!-- ======-->
