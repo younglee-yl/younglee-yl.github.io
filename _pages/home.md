@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Vo Thanh Vinh"
 excerpt: "Vo Thanh Vinh"
 author_profile: true
 redirect_from: 
