@@ -18,7 +18,7 @@ I did my PhD in Computer Science at NUS, under the guidance of Professor <a href
 ## Preprints
 <!-- ======-->
 
-- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure.
+- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
 - **Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. Adaptive Multi-Source Causal Inference. arXiv.
 - **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. Federated Estimation of Causal Effects from Observational Data. arXiv.
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Random Fourier Features for Federated Learning of Causal Effects.
