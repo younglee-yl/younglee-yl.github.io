@@ -15,7 +15,7 @@ I am currently a Postdoctoral Research Fellow at the School of Computing - Natio
 
 I completed my PhD in computer science at the NUS on problems related to causal inference from observational data. I was advised by Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>.
 
-## Preprints and resubmitted papers
+## Preprints
 <!-- ======-->
 
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
