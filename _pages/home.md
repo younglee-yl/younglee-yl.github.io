@@ -23,7 +23,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 - **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. Federated Estimation of Causal Effects from Observational Data. arXiv.
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Random Fourier Features for Federated Learning of Causal Effects.
 - Pengfei Wei, **Thanh Vinh Vo**, Zejun Ma. Dynamic Adaptive Transfer Kernel Learning.
-- Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*Minor revision, resubmitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*))
+- Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
 
 
 ## Selected publications
