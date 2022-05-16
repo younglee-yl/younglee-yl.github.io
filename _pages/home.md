@@ -27,11 +27,11 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Selected publications
 <!-- ======-->
-- **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. Bayesian Federated Estimation of Causal Effects from Observational Data. The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022. (accepted)
+- **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. Bayesian Federated Estimation of Causal Effects from Observational Data. *38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
 - Young Lee, **Thanh Vinh Vo**, Derek Ni, Gang Mu. Point Processes with Mixed Doubly Stochastic Poisson and Self-exciting Flavors: An Excursion into DALY Computations. *A Quantitative View of Life Science Business*, 2022. Springer. (Book chapter, to appear)
-- **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders. *International Conference on
+- **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders. *24th International Conference on
 Artificial Intelligence and Statistics* (**AISTATS**), 2021.
-- Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh. Z-Transforms and its Inference on Partially Observable Point Processes. *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
+- Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh. Z-Transforms and its Inference on Partially Observable Point Processes. *27th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
 - **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
 - **Thanh Vinh Vo**, Duong Tuan Anh. Instance Reduction for Time Series Classification using MDL Principle. *Intelligent Data Analysis 21(3)*, IOS Press, 2017.
 
