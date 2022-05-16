@@ -15,15 +15,6 @@ I am currently a Postdoctoral Research Fellow at the School of Computing - Natio
 
 I completed my PhD in computer science at the NUS on problems related to causal inference from observational data. I was advised by Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>.
 
-## Preprints
-<!-- ======-->
-
-- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
-- **Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. Adaptive Multi-Source Causal Inference. arXiv.
-- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Random Fourier Features for Federated Learning of Causal Effects.
-- Pengfei Wei, **Thanh Vinh Vo**, Zejun Ma. Dynamic Adaptive Transfer Kernel Learning.
-- Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
-
 
 ## Selected publications
 <!-- ======-->
@@ -34,6 +25,15 @@ Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 - Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh. Z-Transforms and its Inference on Partially Observable Point Processes. *27th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
 - **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
 - **Thanh Vinh Vo**, Duong Tuan Anh. Instance Reduction for Time Series Classification using MDL Principle. *Intelligent Data Analysis 21(3)*, IOS Press, 2017.
+
+## Preprints
+<!-- ======-->
+
+- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
+- **Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. Adaptive Multi-Source Causal Inference. arXiv.
+- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Random Fourier Features for Federated Learning of Causal Effects.
+- Pengfei Wei, **Thanh Vinh Vo**, Zejun Ma. Dynamic Adaptive Transfer Kernel Learning.
+- Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
 
 ## Teaching
 <!-- ======-->
