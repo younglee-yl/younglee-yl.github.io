@@ -20,7 +20,6 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
 - **Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. Adaptive Multi-Source Causal Inference. arXiv.
-- **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. Federated Estimation of Causal Effects from Observational Data. arXiv.
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Random Fourier Features for Federated Learning of Causal Effects.
 - Pengfei Wei, **Thanh Vinh Vo**, Zejun Ma. Dynamic Adaptive Transfer Kernel Learning.
 - Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
@@ -28,6 +27,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Selected publications
 <!-- ======-->
+- **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. Bayesian Federated Estimation of Causal Effects from Observational Data. The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022. (accepted)
 - Young Lee, **Thanh Vinh Vo**, Derek Ni, Gang Mu. Point Processes with Mixed Doubly Stochastic Poisson and Self-exciting Flavors: An Excursion into DALY Computations. *A Quantitative View of Life Science Business*, 2022. Springer. (Book chapter, to appear)
 - **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders. *International Conference on
 Artificial Intelligence and Statistics* (**AISTATS**), 2021.
