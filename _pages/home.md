@@ -26,7 +26,7 @@ Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 - **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
 - **Thanh Vinh Vo**, Duong Tuan Anh. Instance Reduction for Time Series Classification using MDL Principle. *Intelligent Data Analysis 21(3)*, IOS Press, 2017.
 
-## Preprints
+## Preprints 
 <!-- ======-->
 
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
