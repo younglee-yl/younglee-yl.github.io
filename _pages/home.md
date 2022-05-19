@@ -31,7 +31,7 @@ Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
 - **Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. Adaptive Multi-Source Causal Inference. arXiv.
-- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Random Fourier Features for Federated Learning of Causal Effects.
+- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. A Kernel Approach to Federated Learning of Heterogeneous Causal Effects.
 - Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
 
 ## Teaching
