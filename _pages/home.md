@@ -26,7 +26,7 @@ Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 - **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
 - **Thanh Vinh Vo**, Duong Tuan Anh. Instance Reduction for Time Series Classification using MDL Principle. *Intelligent Data Analysis 21(3)*, IOS Press, 2017.
 
-## Preprints 
+## Preprints and work in progress
 <!-- ======-->
 
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
@@ -34,8 +34,9 @@ Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. A Kernel Approach to Federated Learning of Heterogeneous Causal Effects.
 - Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
 
+<!--
 ## Teaching
-<!-- ======-->
 GAP teaching assistant at National University of Singapore, 2017-2020.
 - Programming methodology
 - Data structures and algorithms
+-->
