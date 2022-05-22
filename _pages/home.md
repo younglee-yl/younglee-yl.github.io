@@ -2,7 +2,8 @@
 permalink: /
 title: ""
 excerpt: "Vo Thanh Vinh"
-author_profile: true
+author_profile: False
+toc: true
 redirect_from: 
   - /home/
   - /home.html
