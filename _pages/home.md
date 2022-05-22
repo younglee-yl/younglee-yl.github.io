@@ -3,8 +3,13 @@ permalink: /
 title: ""
 excerpt: "Vo Thanh Vinh"
 author_profile: True
-excerpt_separator: <!--more-->
 toc: true
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: TRUE
+    pandoc_args: 
+      - "--wrap=preserve"
 redirect_from: 
   - /home/
   - /home.html
