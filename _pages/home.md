@@ -10,14 +10,14 @@ redirect_from:
 ---
 
 
-# About
+## About
 <!-- ======-->
 I am currently a Postdoctoral Research Fellow at the School of Computing - National University of Singapore (NUS), working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. My research interests include causal inference, causal discovery, and point processes.
 
 I completed my PhD in computer science at the NUS on problems related to causal inference from observational data. I was advised by Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>.
 
 
-# Selected publications
+## Selected publications
 <!-- ======-->
 - **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. Bayesian Federated Estimation of Causal Effects from Observational Data. *38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
 - Young Lee, **Thanh Vinh Vo**, Derek Ni, Gang Mu. Point Processes with Mixed Doubly Stochastic Poisson and Self-exciting Flavors: An Excursion into DALY Computations. *A Quantitative View of Life Science Business*, 2022. Springer. (Book chapter, to appear)
@@ -27,7 +27,7 @@ Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 - **Thanh Vinh Vo**, Harold Soh. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. *ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
 - **Thanh Vinh Vo**, Duong Tuan Anh. Instance Reduction for Time Series Classification using MDL Principle. *Intelligent Data Analysis 21(3)*, IOS Press, 2017.
 
-# Preprints and work in progress
+## Preprints and work in progress
 <!-- ======-->
 
 - **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
