@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: single
 toc: true
 title: ""
 excerpt: "Vo Thanh Vinh"
