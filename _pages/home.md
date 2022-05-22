@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "Vo Thanh Vinh"
 author_profile: True
-toc: true
+classes: wide
 redirect_from: 
   - /home/
   - /home.html
