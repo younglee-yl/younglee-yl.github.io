@@ -4,12 +4,6 @@ title: ""
 excerpt: "Vo Thanh Vinh"
 author_profile: True
 toc: true
-output:
-  md_document:
-    variant: gfm
-    preserve_yaml: TRUE
-    pandoc_args: 
-      - "--wrap=preserve"
 redirect_from: 
   - /home/
   - /home.html
@@ -17,7 +11,7 @@ redirect_from:
 
 
 # About
-<!-- ======-->
+======
 I am currently a Postdoctoral Research Fellow at the School of Computing - National University of Singapore (NUS), working with Professors <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a> and <a href="https://www.comp.nus.edu.sg/~arnab/" target="_blank">Arnab Bhattacharyya</a>. My research interests include causal inference, causal discovery, and point processes.
 
 I completed my PhD in computer science at the NUS on problems related to causal inference from observational data. I was advised by Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>.
