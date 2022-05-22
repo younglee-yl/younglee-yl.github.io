@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 excerpt: "Vo Thanh Vinh"
 author_profile: True
 classes: wide
