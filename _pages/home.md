@@ -17,9 +17,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Selected publications
 <!-- ======-->
-- Bayesian Federated Estimation of Causal Effects from Observational Data.
-  - **Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong
-  - *38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
+- Bayesian Federated Estimation of Causal Effects from Observational Data.<br />**Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. <br />*38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
 - Young Lee, **Thanh Vinh Vo**, Derek Ni, Gang Mu. Point Processes with Mixed Doubly Stochastic Poisson and Self-exciting Flavors: An Excursion into DALY Computations. *A Quantitative View of Life Science Business*, 2022. Springer. (Book chapter, to appear)
 - **Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. Causal Modeling with Stochastic Confounders. *24th International Conference on
 Artificial Intelligence and Statistics* (**AISTATS**), 2021.
