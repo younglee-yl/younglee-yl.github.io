@@ -1,10 +1,9 @@
 ---
 permalink: /
+toc: true
 title: ""
 excerpt: "Vo Thanh Vinh"
 author_profile: True
-output:
-  toc: true
 redirect_from: 
   - /home/
   - /home.html
