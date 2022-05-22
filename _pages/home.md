@@ -4,8 +4,6 @@ title: ""
 excerpt: "Vo Thanh Vinh"
 author_profile: True
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 redirect_from: 
   - /home/
   - /home.html
