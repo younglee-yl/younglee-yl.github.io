@@ -17,21 +17,21 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Selected publications
 <!-- ======-->
-- Bayesian Federated Estimation of Causal Effects from Observational Data<br />**Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong<br />*38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
-- Point Processes with Mixed Doubly Stochastic Poisson and Self-exciting Flavors: An Excursion into DALY Computations<br />Young Lee, **Thanh Vinh Vo**, Derek Ni, Gang Mu.<br />*A Quantitative View of Life Science Business*, 2022. Springer. (Book chapter, to appear)
-- Causal Modeling with Stochastic Confounders.<br />**Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong<br />*24th International Conference on
+1. Bayesian Federated Estimation of Causal Effects from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. <br />*38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
+1. Point Processes with Mixed Doubly Stochastic Poisson and Self-exciting Flavors: An Excursion into DALY Computations. <br />Young Lee, **Thanh Vinh Vo**, Derek Ni, Gang Mu. <br />*A Quantitative View of Life Science Business*, 2022. Springer. (Book chapter, to appear)
+1. Causal Modeling with Stochastic Confounders. <br />**Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. <br />*24th International Conference on
 Artificial Intelligence and Statistics* (**AISTATS**), 2021.
-- Z-Transforms and its Inference on Partially Observable Point Processes.<br />Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh.<br />*27th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
-- Generation Meets Recommendation: Proposing Novel Items for Groups of Users.<br />**Thanh Vinh Vo**, Harold Soh<br />*ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
-- Instance Reduction for Time Series Classification using MDL Principle.<br />**Thanh Vinh Vo**, Duong Tuan Anh<br />*Intelligent Data Analysis 21(3)*, IOS Press, 2017.
+1. Z-Transforms and its Inference on Partially Observable Point Processes. <br />Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh. <br />*27th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018.
+1. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. <br />**Thanh Vinh Vo**, Harold Soh. <br />*ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)*
+1. Instance Reduction for Time Series Classification using MDL Principle. <br />**Thanh Vinh Vo**, Duong Tuan Anh. <br />*Intelligent Data Analysis 21(3)*, IOS Press, 2017.
 
 ## Preprints and work in progress
 <!-- ======-->
 
-- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. Bayesian Learning of Causal Structure. (In progress)
-- **Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. Adaptive Multi-Source Causal Inference. arXiv.
-- **Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. A Kernel Approach to Federated Learning of Heterogeneous Causal Effects.
-- Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. Transfer Kernel Learning for Multi-source Transfer Regression. (*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
+1. Bayesian Learning of Causal Structure. (In progress). <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong.
+1. Adaptive Multi-Source Causal Inference. arXiv. <br />**Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong.
+1. An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects. <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. 
+1. Transfer Kernel Learning for Multi-source Transfer Regression. <br />Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. <br />(*submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*), *minor revision*)
 
 <!--
 ## Teaching
