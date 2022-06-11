@@ -18,7 +18,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 ## Selected publications
 <!-- ======-->
 1. Bayesian Federated Estimation of Causal Effects from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. <br />*38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
-1. Transfer Kernel Learning for Multi-source Transfer Regression. <br />Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. <br />*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**). (Impact Factor: 16.389) (accepted)
+1. Transfer Kernel Learning for Multi-source Transfer Regression. <br />Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. <br />*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022. (Impact Factor: 16.389) (accepted)
 1. Point Processes with Mixed Doubly Stochastic Poisson and Self-exciting Flavors: An Excursion into DALY Computations. <br />Young Lee, **Thanh Vinh Vo**, Derek Ni, Gang Mu. <br />*A Quantitative View of Life Science Business*, 2022. Springer. (Book chapter, to appear)
 1. Causal Modeling with Stochastic Confounders. <br />**Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. <br />*24th International Conference on
 Artificial Intelligence and Statistics* (**AISTATS**), 2021.
