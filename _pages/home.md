@@ -15,7 +15,7 @@ I am currently a Postdoctoral Research Fellow at the School of Computing - Natio
 I completed my PhD in computer science at the NUS on problems related to causal inference from observational data. I was advised by Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>.
 ## News
 
-- *02-Jul-2022:* Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' has been accepted to **CIKM 2022**!
+- <font size="1"> *02-Jul-2022:* Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' has been accepted to **CIKM 2022**!</font>
 - *29-Jul-2022:* I won the **Dean's Graduate Research Excellence Award**!
 - *11-Jun-2022:* Our paper 'Transfer Kernel Learning for Multi-source Transfer Regression' has been accepted to **TPAMI**!
 - *16-May-2022:* Our paper 'Bayesian Federated Estimation of Causal Effects from Observational Data' has been accepted to **UAI 2022**!
