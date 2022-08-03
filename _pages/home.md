@@ -39,6 +39,7 @@ Artificial Intelligence and Statistics* (**AISTATS**), 2021.
 
 1. Bayesian Learning of Causal Structure. (In progress). <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong.
 1. An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects. <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. 
+1. Learning High-dimensional Gaussians from Censored Data. <br />Arnab Bhattacharyya, Constantinos Daskalakis, Themis Gouleakis, **Thanh Vinh Vo**, Wang Yuhao.
 
 
 <!--
