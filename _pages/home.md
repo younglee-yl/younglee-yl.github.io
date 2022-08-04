@@ -22,6 +22,18 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 - *09-Feb-2022:* I passed my PhD oral defense!
 
 
+<table style='border:none;'>
+    <tr style='border:none;'>
+      <td style='vertical-align: top;border:none;width: 100px;'>02-Aug-2022</td>
+      <td align="left" style='vertical-align: top;border:none;'>Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' was accepted to <b>CIKM 2022</b>!</td>
+    </tr>
+    <tr style='border:none;'>
+      <td style='vertical-align: top;border:none;width: 100px;'>29-Jul-2022</td>
+      <td align="left" style='vertical-align: top;border:none;'>I won the <b>Dean's Graduate Research Excellence Award</b>!</td>
+    </tr>
+</table>
+
+
 ## Selected publications
 <!-- ======-->
 1. Bayesian Federated Estimation of Causal Effects from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. <br />*38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. (accepted)
