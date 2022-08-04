@@ -37,13 +37,13 @@ I completed my PhD in computer science at the NUS on problems related to causal 
       <td align="left" style='vertical-align: top;border:none;'>Our paper 'Transfer Kernel Learning for Multi-source Transfer Regression' was accepted to <b>PAMI/TPAMI</b>!</td>
     </tr>
     <tr style='border:none;'>
+      <td style='vertical-align: top;border:none;width: 100px;'>09-Feb-2022</td>
+      <td align="left" style='vertical-align: top;border:none;'>Our paper 'Bayesian Federated Estimation of Causal Effects from Observational Data' was accepted to <b>UAI 2022</b>!</td>
+    </tr>
+    <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;'>16-May-2022</td>
       <td align="left" style='vertical-align: top;border:none;'>I passed my PhD oral defense!</td>
     </tr>
-    </tr>
-    <tr style='border:none;'>
-      <td style='vertical-align: top;border:none;width: 100px;'>09-Feb-2022</td>
-      <td align="left" style='vertical-align: top;border:none;'>Our paper 'Bayesian Federated Estimation of Causal Effects from Observational Data' was accepted to <b>UAI 2022</b>!</td>
     </tr>
 </table>
 
