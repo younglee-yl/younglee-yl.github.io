@@ -43,8 +43,12 @@ I completed my PhD in computer science at the NUS on problems related to causal 
       <td style='vertical-align: top;border:none;width: 100px;padding: 0; margin: 0'>09 Feb 2022</td>
       <td align="left" style='vertical-align: top;border:none;padding: 0; margin: 0;'>I passed my PhD oral defense!</td>
     </tr>
+    </tr>
+    <tr style='border:none;'>
+      <td style='vertical-align: top;border:none;width: 100px;padding: 0; margin: 0'>08 Aug 2021</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0; margin: 0;'>I submitted my PhD thesis!</td>
+    </tr>
 </table>
-
 
 ## Selected publications
 <!-- ======-->
