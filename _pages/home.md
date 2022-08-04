@@ -31,7 +31,6 @@ I completed my PhD in computer science at the NUS on problems related to causal 
       <td style='vertical-align: top;border:none;width: 100px;'>29-Jul-2022</td>
       <td align="left" style='vertical-align: top;border:none;'>I won the <b>Dean's Graduate Research Excellence Award</b>!</td>
     </tr>
-    </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;'>11-Jun-2022</td>
       <td align="left" style='vertical-align: top;border:none;'>Our paper 'Transfer Kernel Learning for Multi-source Transfer Regression' was accepted to <b>PAMI/TPAMI</b>!</td>
@@ -43,7 +42,6 @@ I completed my PhD in computer science at the NUS on problems related to causal 
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;'>09-Feb-2022</td>
       <td align="left" style='vertical-align: top;border:none;'>I passed my PhD oral defense!</td>
-    </tr>
     </tr>
 </table>
 
