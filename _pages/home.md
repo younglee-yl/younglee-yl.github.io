@@ -17,7 +17,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <!--
 - *02-Aug-2022:* Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' was accepted to **CIKM 2022**!
 - *29-Jul-2022:* I won the **Dean's Graduate Research Excellence Award**!
-- *11-Jun-2022:* Our paper 'Transfer Kernel Learning for Multi-source Transfer Regression' was accepted to **PAMI/TPAMI**!
+- *11-Jun-2022:* Our paper 'Transfer Kernel Learning for Multi-source Transfer Regression' was accepted to **IEEE TPAMI**!
 - *16-May-2022:* Our paper 'Bayesian Federated Estimation of Causal Effects from Observational Data' was accepted to **UAI 2022**!
 - *09-Feb-2022:* I passed my PhD oral defense!
 -->
