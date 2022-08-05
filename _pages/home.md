@@ -25,7 +25,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
-      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span style='display: inline-block;padding: 0.25em 0.4em;font-size: 0.75em;line-height: 1;text-align: center;white-space: nowrap; background-color: #0277bd;color: white;'>02 Aug 2022</span></td>
+      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>02 Aug 2022</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' was accepted to <b>CIKM 2022</b>!</td>
     </tr>
     <tr style='border:none;'>
