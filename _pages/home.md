@@ -3,7 +3,7 @@ permalink: /
 layout: single
 toc: true
 title: ""
-excerpt: "Vo Thanh Vinh"
+excerpt: "Young Lee"
 author_profile: True
 redirect_from: 
   - /home/
