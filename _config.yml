@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Young Lee"
-  avatar           : "young.jpeg" #"dog.jpeg"
+  avatar           : "dog.jpeg"
   bio              : "Postdoctoral Research Fellow, National University of Singapore"
   location         : "Singapore"
   employer         :
