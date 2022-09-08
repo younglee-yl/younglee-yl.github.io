@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VO THANH VINH"
+title                    : "YOUNG LEE"
 title_separator          : #"-"
-name                     : &name "Vo Thanh Vinh"
-description              : &description "Vo Thanh Vinh"
-url                      : https://vothanhvinh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Young Lee"
+description              : &description "Young Lee"
+url                      : https://younglee-yl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vothanhvinh/vothanhvinh.github.io"
+repository               : "younglee-yl/younglee-yl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "VO Thanh Vinh"
+  name             : "Young Lee"
   avatar           : "photo3.jpg" #"dog.jpeg"
   bio              : "Postdoctoral Research Fellow, National University of Singapore"
   location         : "Singapore"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vothanhvinh"
+  github           : "younglee-yl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "thanhvinhvo"
+  linkedin         : 
   orcid            : #"#"
   pinterest        :
   soundcloud       :
